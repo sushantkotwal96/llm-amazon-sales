@@ -24,12 +24,15 @@ streamlit run app.py
 
 2. Upload your CSV file via the Streamlit interface.
 
-![WhatsApp Image 2024-06-19 at 12 52 15](https://github.com/sushantkotwal96/llm-amazon-sales/assets/17748119/bef7f29f-06ab-4ab1-8769-afaa9b0be2a7)
+ ![WhatsApp Image 2024-06-19 at 12 45 14](https://github.com/sushantkotwal96/llm-amazon-sales/assets/17748119/844708e3-c371-49c1-ab14-72aedded5713)
+
 
 
 3. Ask questions in the Q&A section. The system will use the uploaded data to provide context-aware responses.
 
-   ![WhatsApp Image 2024-06-19 at 12 45 14](https://github.com/sushantkotwal96/llm-amazon-sales/assets/17748119/844708e3-c371-49c1-ab14-72aedded5713)
+  
+
+   ![WhatsApp Image 2024-06-19 at 12 52 15](https://github.com/sushantkotwal96/llm-amazon-sales/assets/17748119/bef7f29f-06ab-4ab1-8769-afaa9b0be2a7)
 
 
 # Thank You
