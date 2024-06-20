@@ -1,6 +1,4 @@
-# llm-amazon-sales
-
-# Context-Aware Q&A System
+# DataInsight Q&A
 
 This project is a Context-Aware Q&A System designed to provide accurate responses based on user-uploaded data. It leverages the Langchain framework and OpenAI instruct models to enable context-aware responses. The system also includes a custom CSV agent, Python REPL tool, and FAISS vector database for efficient embedding and retrieval operations. Additionally, the project uses Streamlit to create a user-friendly interface for file uploads and interactive Q&A sessions.
 
