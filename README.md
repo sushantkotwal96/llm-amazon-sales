@@ -36,4 +36,10 @@ streamlit run app.py
    ![WhatsApp Image 2024-06-19 at 12 52 15](https://github.com/sushantkotwal96/llm-amazon-sales/assets/17748119/bef7f29f-06ab-4ab1-8769-afaa9b0be2a7)
 
 
+## Contributors
+This project was completed by Sushant Kotwal and Shubham Tamhane.
+
+- Sushant Kotwal: [GitHub](https://github.com/sushantkotwal96)
+- Shubham Tamhane: [GitHub](https://github.com/shubhamtamhane)
+
 # Thank You
